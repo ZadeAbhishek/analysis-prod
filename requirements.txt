@@ -1,0 +1,13 @@
+# Core (required)
+matplotlib>=3.8
+numpy>=1.24
+
+# Optional — enable extra charts; the tool runs fine without them
+wordcloud>=1.9   # word-cloud images
+networkx>=3.0    # keyword co-occurrence network
+
+# Required by compute_theme_stats.py / visualize_theme_stats.py (theme coding pipeline)
+pandas>=2.0
+seaborn>=0.13
+plotly>=5.20
+kaleido>=0.2     # static PNG export for the Plotly figure; falls back to Matplotlib if missing
