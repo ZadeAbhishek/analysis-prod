@@ -1,0 +1,22 @@
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Generated analysis outputs (regenerate with `python run_pipeline.py`)
+analysis_output/
+output/
+output_*/
+output_real/
+figures/
+theme_stats.json
+summary_table.md
+
+# OS / editor junk
+.DS_Store
+.vscode/
+.idea/
+
+# Scratch/collaboration space (not part of the deliverable)
+.context/

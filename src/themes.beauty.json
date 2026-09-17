@@ -1,0 +1,9 @@
+{
+  "Sustainability & Environment": ["sustainability", "sustainable", "environment", "environmental", "eco", "eco-friendly", "green", "planet", "carbon", "recyclable", "recycle", "recycling", "packaging", "waste", "ethical", "cruelty", "cruelty-free", "vegan", "responsible", "footprint", "biodegradable", "refill"],
+  "Clean Beauty & Ingredients": ["clean", "natural", "organic", "ingredient", "ingredients", "chemical", "chemicals", "toxic", "paraben", "parabens", "sulphate", "sulfate", "fragrance", "additive", "formula", "formulation", "safe", "gentle", "nontoxic", "non-toxic", "botanical", "plant-based"],
+  "Luxury & Brand": ["luxury", "luxurious", "brand", "brands", "premium", "designer", "prestige", "high-end", "exclusive", "reputation", "image", "status", "label", "marketing", "advertising", "influencer", "celebrity"],
+  "Purchase Decision & Price": ["buy", "buying", "bought", "purchase", "purchasing", "price", "cost", "expensive", "cheap", "afford", "affordable", "value", "money", "spend", "spending", "worth", "budget", "discount", "deal", "choice", "decision", "decide", "compare", "review", "reviews", "recommend"],
+  "Skincare & Product Use": ["skin", "skincare", "product", "products", "cream", "serum", "moisturiser", "moisturizer", "lotion", "cleanser", "sunscreen", "spf", "routine", "makeup", "cosmetic", "cosmetics", "face", "hair", "apply", "use", "using"],
+  "Trust, Claims & Perception": ["trust", "trustworthy", "believe", "belief", "claim", "claims", "honest", "honesty", "transparent", "transparency", "authentic", "genuine", "greenwashing", "misleading", "perception", "perceive", "feel", "opinion", "experience", "quality", "effective", "results"],
+  "Personal & Lifestyle": ["personal", "personally", "lifestyle", "health", "healthy", "wellbeing", "wellness", "self-care", "confidence", "identity", "everyday", "daily", "habit", "care"]
+}

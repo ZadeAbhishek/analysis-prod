@@ -1,0 +1,10 @@
+{
+  "Work & Career": ["work", "job", "career", "office", "boss", "manager", "meeting", "project", "deadline", "client", "team", "promotion", "colleague", "workload", "overtime", "interview", "company"],
+  "Health & Wellbeing": ["health", "sleep", "tired", "stress", "stressed", "anxiety", "exercise", "gym", "doctor", "sick", "energy", "rest", "burnout", "therapy", "wellbeing", "workout", "diet", "mental"],
+  "Family & Relationships": ["family", "kids", "children", "partner", "wife", "husband", "mom", "dad", "mother", "father", "friend", "friends", "relationship", "marriage", "parents", "son", "daughter", "home"],
+  "Money & Finance": ["money", "budget", "savings", "save", "spend", "cost", "expensive", "rent", "mortgage", "debt", "loan", "invest", "salary", "income", "afford", "bills", "financial", "price"],
+  "Education & Learning": ["school", "college", "university", "course", "study", "learn", "learning", "degree", "class", "teacher", "student", "exam", "skills", "training", "read", "book", "knowledge"],
+  "Technology": ["technology", "computer", "software", "app", "apps", "phone", "internet", "online", "data", "code", "digital", "device", "platform", "website", "email", "tech"],
+  "Future & Plans": ["future", "plan", "plans", "goal", "goals", "hope", "dream", "change", "decision", "decide", "opportunity", "move", "moving", "start", "startup"],
+  "Emotions & Feelings": ["happy", "sad", "angry", "worried", "excited", "nervous", "afraid", "scared", "love", "hate", "frustrated", "proud", "guilty", "overwhelmed", "grateful", "lonely", "feel", "feeling", "fear"]
+}
